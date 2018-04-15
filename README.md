@@ -22,6 +22,7 @@ This framework includes and uses the following:
 1. Create controllers in app/controllers
 2. Create respective views in app/views
 3. in url you can use get properties "c" for controller and "a" for action/method in the controller class.
+3. example URL : http://localhost/?c=home&a=index
 
 # License
 MIT
